@@ -120,5 +120,5 @@ This project is open-source and available under the MIT License.
 ---
 
 **Check out the project on my LinkedIn post for more details!**  
-[GitHub Link]
+[https://www.linkedin.com/posts/gourinandhanpv_dataanalysis-sql-mysql-activity-7270830522837155841-W0MP?utm_source=share&utm_medium=member_desktop]
 
